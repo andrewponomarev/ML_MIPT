@@ -1,3 +1,2 @@
 # ML_MIPT
-Решение задач специализации Coursera Машинное обучение и анализ данных(МФТИ).
-[Машинное обучение и анализ данных(МФТИ)](https://www.coursera.org/specializations/machine-learning-data-analysis)
+Решение задач специализации Coursera [Машинное обучение и анализ данных(МФТИ)](https://www.coursera.org/specializations/machine-learning-data-analysis)
